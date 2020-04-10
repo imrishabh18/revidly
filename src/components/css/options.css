@@ -1,0 +1,22 @@
+.footer{
+    height: 70px;
+    background-color: black;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    color: orange; 
+    font-size: 23px;
+    position: fixed;
+}
+ul{
+    text-decoration: none;
+    list-style: none;
+}
+li{
+    display: inline;
+    margin: 23px;
+}
+.feed{
+    font-size: 30px;
+    color: white;
+}
